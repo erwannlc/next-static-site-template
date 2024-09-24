@@ -1,5 +1,5 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"],
+  "extends": ["next/core-web-vitals", "next/typescript", "prettier"],
   "rules": {
     "max-len": ["warn", { "code": 110 }],
     "quotes": ["error", "double", { "allowTemplateLiterals": true }],
