@@ -55,7 +55,8 @@ export default function RootLayout({
     <html lang="fr">
       {/* <body className={`${geistSans.variable} ${geistMono.variable}`}> */}
       <body
-        className={`${inter.className} ${lora.variable} ${raleway.variable}`}>
+        className={`${inter.className} ${lora.variable} ${raleway.variable}`}
+      >
         <div className="app">
           Header
           <main className="main">{children}</main>
