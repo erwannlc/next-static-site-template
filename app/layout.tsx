@@ -31,9 +31,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Rennes radiateurs",
-  description:
-    "Service de réparation de radiateurs pour véhicules indutriels et particuliers, à Cesson-Sévigné",
+  title: "Titre du site",
+  description: "Metadata description ",
   robots: "noindex",
   icons: {
     icon: "/favicon.ico",
@@ -53,16 +52,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr">
-      {/* <body className={`${geistSans.variable} ${geistMono.variable}`}> */}
-      <body
-        className={`${inter.className} ${lora.variable} ${raleway.variable}`}
-      >
-        <div className="app">
-          Header
-          <main className="main">{children}</main>
-          Footer
-        </div>
-      </body>
+      <body className={`${inter.className} ${lora.variable} ${raleway.variable}`}>{children}</body>
     </html>
   );
 }
