@@ -1,0 +1,32 @@
+div.cta {
+  $color: rgba(0, 0, 0, 0.8);
+  $bgColor: whitesmoke;
+  $hoverColor: $bgColor;
+  $hoverBgColor: black;
+  $border: 1px solid $color;
+
+  $fsize: 1.1rem;
+
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  a {
+    padding: 1.2rem 2.4rem;
+    font-size: $fsize;
+    background-color: $bgColor;
+    color: $color;
+    border: $border;
+    border-radius: var(--border-radius);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    &:hover {
+      background-color: $hoverBgColor;
+      color: $hoverColor;
+      transition: all 0.3s ease-in-out;
+    }
+    &:active {
+      transform: translateY(1px);
+      transition: all 0.2s ease-in-out;
+    }
+  }
+}

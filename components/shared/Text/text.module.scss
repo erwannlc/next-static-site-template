@@ -1,0 +1,49 @@
+div.paragraphs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  &.with-title {
+    margin-top: 2rem;
+  }
+  & .title {
+    font-weight: 500;
+    font-size: 1.5em;
+    margin-bottom: 1.5rem;
+    &.emphasize-title {
+      font-size: 2rem;
+    }
+  }
+  & p {
+    margin-bottom: 1em;
+    font-weight: 200;
+    line-height: 1.6em;
+
+    &.hyphens {
+      hyphens: auto;
+    }
+  }
+}
+
+.read-more-state {
+  display: none;
+
+  &:checked ~ .read-more-target {
+    opacity: 1;
+    font-size: inherit;
+    max-height: 100%;
+  }
+  & ~ label.read-more-trigger{
+    cursor: pointer;
+    color: var(--main-color);
+    font-weight: 300;
+  }
+}
+
+.read-more-target {
+  opacity: 0;
+  max-height: 0;
+  font-size: 0;
+  transition: .25s ease;
+}

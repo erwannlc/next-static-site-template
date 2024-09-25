@@ -1,0 +1,254 @@
+[
+	{
+		"id": "family-gallery-1",
+		"imageSrc": "/images/family/gallery/family_gallery_001.jpeg",
+		"fileName": "family_gallery_001.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 952,
+			"height": 1269,
+			"format": "jpeg",
+			"size": 481.01,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-2",
+		"imageSrc": "/images/family/gallery/family_gallery_002.jpeg",
+		"fileName": "family_gallery_002.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 321.65,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-3",
+		"imageSrc": "/images/family/gallery/family_gallery_003.jpeg",
+		"fileName": "family_gallery_003.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 305.63,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-4",
+		"imageSrc": "/images/family/gallery/family_gallery_004.jpeg",
+		"fileName": "family_gallery_004.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 204.9,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-5",
+		"imageSrc": "/images/family/gallery/family_gallery_005.jpeg",
+		"fileName": "family_gallery_005.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 331.23,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-6",
+		"imageSrc": "/images/family/gallery/family_gallery_006.jpeg",
+		"fileName": "family_gallery_006.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 370.79,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-7",
+		"imageSrc": "/images/family/gallery/family_gallery_007.jpeg",
+		"fileName": "family_gallery_007.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 232.96,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-8",
+		"imageSrc": "/images/family/gallery/family_gallery_008.jpeg",
+		"fileName": "family_gallery_008.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 209.53,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-9",
+		"imageSrc": "/images/family/gallery/family_gallery_009.jpeg",
+		"fileName": "family_gallery_009.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 147.83,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-10",
+		"imageSrc": "/images/family/gallery/family_gallery_010.jpeg",
+		"fileName": "family_gallery_010.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 720,
+			"height": 960,
+			"format": "jpeg",
+			"size": 213.2,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-11",
+		"imageSrc": "/images/family/gallery/family_gallery_011.jpeg",
+		"fileName": "family_gallery_011.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 135.48,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-12",
+		"imageSrc": "/images/family/gallery/family_gallery_012.jpeg",
+		"fileName": "family_gallery_012.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 196.87,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-13",
+		"imageSrc": "/images/family/gallery/family_gallery_013.jpeg",
+		"fileName": "family_gallery_013.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 159.28,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-14",
+		"imageSrc": "/images/family/gallery/family_gallery_014.jpeg",
+		"fileName": "family_gallery_014.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 254.33,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-15",
+		"imageSrc": "/images/family/gallery/family_gallery_015.jpeg",
+		"fileName": "family_gallery_015.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 166.57,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-16",
+		"imageSrc": "/images/family/gallery/family_gallery_016.jpeg",
+		"fileName": "family_gallery_016.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 160.3,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.902Z"
+		}
+	},
+	{
+		"id": "family-gallery-17",
+		"imageSrc": "/images/family/gallery/family_gallery_017.jpeg",
+		"fileName": "family_gallery_017.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 449.15,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.903Z"
+		}
+	},
+	{
+		"id": "family-gallery-18",
+		"imageSrc": "/images/family/gallery/family_gallery_018.jpeg",
+		"fileName": "family_gallery_018.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 221.34,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:54.903Z"
+		}
+	}
+]

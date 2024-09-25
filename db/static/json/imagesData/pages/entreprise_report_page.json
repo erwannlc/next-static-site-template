@@ -1,0 +1,44 @@
+[
+	{
+		"imageSrc": "/images/entreprise/report/page/banner_entreprise_report.jpeg",
+		"fileName": "banner_entreprise_report.jpeg",
+		"alt": "",
+		"id": "entreprise-report-page-1",
+		"metadata": {
+			"width": 1280,
+			"height": 640,
+			"orientation": "landscape",
+			"format": "jpeg",
+			"size": 224.54,
+			"uploadedAt": "2024-09-14T08:53:59.707Z"
+		}
+	},
+	{
+		"imageSrc": "/images/entreprise/report/page/job-dating-3.jpeg",
+		"fileName": "job-dating-3.jpeg",
+		"alt": "",
+		"id": "entreprise-report-page-2",
+		"metadata": {
+			"width": 1280,
+			"height": 853,
+			"orientation": "landscape",
+			"format": "jpeg",
+			"size": 282.29,
+			"uploadedAt": "2024-09-14T08:53:59.707Z"
+		}
+	},
+	{
+		"imageSrc": "/images/entreprise/report/page/report_massage.jpeg",
+		"fileName": "report_massage.jpeg",
+		"alt": "",
+		"id": "entreprise-report-page-3",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"orientation": "portrait",
+			"format": "jpeg",
+			"size": 184.7,
+			"uploadedAt": "2024-09-14T08:53:59.706Z"
+		}
+	}
+]

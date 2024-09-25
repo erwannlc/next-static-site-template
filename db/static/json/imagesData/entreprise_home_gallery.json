@@ -1,0 +1,212 @@
+[
+	{
+		"id": "entreprise-home-gallery-1",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_001.jpeg",
+		"fileName": "entreprise_home_001.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 172.73,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-2",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_002.jpeg",
+		"fileName": "entreprise_home_002.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 121.07,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-3",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_003.jpeg",
+		"fileName": "entreprise_home_003.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 135.89,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-4",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_004.jpeg",
+		"fileName": "entreprise_home_004.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 207.89,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-5",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_005.jpeg",
+		"fileName": "entreprise_home_005.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 395.24,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-6",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_006.jpeg",
+		"fileName": "entreprise_home_006.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 265.94,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-7",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_007.jpeg",
+		"fileName": "entreprise_home_007.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 133.61,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-8",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_008.jpeg",
+		"fileName": "entreprise_home_008.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 138.52,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-9",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_009.jpeg",
+		"fileName": "entreprise_home_009.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 853,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 145.97,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-10",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_010.jpeg",
+		"fileName": "entreprise_home_010.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 1280,
+			"height": 1230,
+			"format": "jpeg",
+			"size": 260.56,
+			"orientation": "landscape",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-11",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_011.jpeg",
+		"fileName": "entreprise_home_011.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 1280,
+			"height": 1018,
+			"format": "jpeg",
+			"size": 384.94,
+			"orientation": "landscape",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-12",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_012.jpeg",
+		"fileName": "entreprise_home_012.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 960,
+			"height": 1280,
+			"format": "jpeg",
+			"size": 188.49,
+			"orientation": "portrait",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-13",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_013.jpeg",
+		"fileName": "entreprise_home_013.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 1280,
+			"height": 886,
+			"format": "jpeg",
+			"size": 348.83,
+			"orientation": "landscape",
+			"uploadedAt": "2024-05-28T20:49:15.271Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-14",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_014.jpeg",
+		"fileName": "entreprise_home_014.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 1280,
+			"height": 960,
+			"format": "jpeg",
+			"size": 419.98,
+			"orientation": "landscape",
+			"uploadedAt": "2024-05-28T20:49:15.272Z"
+		}
+	},
+	{
+		"id": "entreprise-home-gallery-15",
+		"imageSrc": "/images/entreprise/home/gallery/entreprise_home_015.jpeg",
+		"fileName": "entreprise_home_015.jpeg",
+		"alt": "",
+		"metadata": {
+			"width": 1280,
+			"height": 960,
+			"format": "jpeg",
+			"size": 308.15,
+			"orientation": "landscape",
+			"uploadedAt": "2024-05-28T20:49:15.272Z"
+		}
+	}
+]

@@ -1,0 +1,105 @@
+@mixin inside-burger-line(
+  $width: calc(1rem + 3vmin),
+  $height: 0.8vmin,
+  $bgColor: var(--main-color)
+) {
+  display: block;
+  width: calc(1rem + 3vmin);
+  height: 0.8vmin;
+  width: $width;
+  height: $height;
+  position: relative;
+  border-radius: 3px;
+  background: $bgColor;
+  transition: all 0.2s ease-in-out;
+}
+
+@mixin burger-lines(
+  $betweenLine-height: 2vmin,
+  $line-width: calc(1rem + 3vmin),
+  $line-height: 0.8vmin,
+  $bgColor: var(--main-color)
+) {
+  @include inside-burger-line($line-width, $line-height, $bgColor);
+  &::before,
+  &::after {
+    @include inside-burger-line($line-width, $line-height, $bgColor);
+    content: "";
+    position: absolute;
+    left: 0;
+  }
+  &::before {
+    transform: translateY(calc($betweenLine-height * -1));
+  }
+  &::after {
+    transform: translateY($betweenLine-height);
+  }
+}
+
+@mixin burger-lines-close {
+  width: 0;
+  background: transparent;
+  &::before {
+    transform: rotate(45deg);
+  }
+  &::after {
+    transform: rotate(-45deg);
+  }
+}
+
+button.burger {
+  cursor: pointer;
+  display: none;
+  border: none;
+  box-shadow: none;
+  width: 2rem;
+  height: 2rem;
+  background: transparent;
+  color: inherit;
+}
+
+button.burger.sidebar {
+  display: block;
+  .burger-line {
+    @include burger-lines(6px, 1rem, 2px);
+  }
+  &.close .burger-line {
+    @include burger-lines-close();
+  }
+  &.close {
+    opacity: 0.3;
+  }
+  opacity: 0.6;
+  transition: opacity 0.2s ease-in-out;
+  &:hover,
+  &.close:hover {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+  }
+}
+
+/** ----------------- media queries ----------------- */
+@media screen and (max-width: 768px) {
+  button.burger.sidebar {
+    .burger-line {
+      @include burger-lines(6px, 1rem, 2px, var(--bg-color));
+    }
+  }
+}
+
+@media (max-width: 768px) or ((max-height: 768px) and (max-width: 960px)) {
+  // all mobile devices
+  button.burger.main-navbar {
+    display: block;
+    z-index: 15;
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    .burger-line {
+      @include burger-lines(2vmin);
+    }
+    &.close .burger-line {
+      @include burger-lines-close();
+    }
+  }
+}

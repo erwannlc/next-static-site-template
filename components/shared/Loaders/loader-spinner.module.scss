@@ -1,0 +1,11 @@
+.loader-spinner {
+  padding: 20px;
+  margin: 5rem auto;
+  border: 5px solid;
+  border-color: rgb(201, 201, 201);
+  border-bottom-color: transparent;
+  border-radius: 50px;
+  animation: rotate 1s infinite linear;
+  height: 0;
+  width: 0;
+}

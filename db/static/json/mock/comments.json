@@ -1,0 +1,62 @@
+[
+	{
+		"author": "JohnDoe123",
+		"text": "J'ai vraiment apprécié la lecture de cet article de blog ! Les idées que vous avez partagées sont vraiment précieuses, et j'ai beaucoup appris. Continuez le bon travail !",
+		"date": "2023-03-21T14:30:00Z",
+		"id": "noArticle-C1"
+	},
+	{
+		"author": "JaneSmith456",
+		"text": "C'est un excellent article ! Votre style d'écriture est captivant, et le contenu est informatif. J'attends avec impatience d'autres publications de votre part.",
+		"date": "2023-04-12T10:45:00Z",
+		"id": "noArticle-C2"
+	},
+	{
+		"author": "BlogLover789",
+		"text": "Merci d'avoir partagé cette information précieuse. Il est évident que vous mettez beaucoup d'efforts dans vos articles, et cela est très apprécié.",
+		"date": "2023-05-03T16:15:00Z",
+		"id": "noArticle-C3"
+	},
+	{
+		"author": "Commenter42",
+		"text": "Je ne pourrais pas être plus d'accord avec vos points dans cet article. Vous avez apporté une perspective nouvelle sur le sujet, et j'ai trouvé cela éclairant.",
+		"date": "2023-06-14T09:20:00Z",
+		"id": "noArticle-C4"
+	},
+	{
+		"author": "Reader123",
+		"text": "Vos articles de blog sont toujours un plaisir à lire. Je trouve vos analyses bien documentées et stimulantes. Continuez comme ça !",
+		"date": "2023-07-02T12:50:00Z",
+		"id": "noArticle-C5"
+	},
+	{
+		"author": "ThoughtfulReader",
+		"text": "Cet article m'a touché personnellement. Vos mots ont le pouvoir d'inspirer et d'informer. Merci de partager vos connaissances.",
+		"date": "2023-08-19T18:05:00Z",
+		"id": "noArticle-C6"
+	},
+	{
+		"author": "FeedbackGuru",
+		"text": "Feedback constructif : Votre article de blog était excellent, mais j'aimerais voir davantage d'exemples pour illustrer vos points. Dans l'ensemble, cependant, excellent travail !",
+		"date": "2023-09-05T14:10:00Z",
+		"id": "noArticle-C7"
+	},
+	{
+		"author": "CuriousMind",
+		"text": "Je suis toujours enthousiaste à l'idée de découvrir un nouvel article de votre part. Votre écriture est claire et concise, rendant les sujets complexes faciles à comprendre.",
+		"date": "2023-10-27T11:30:00Z",
+		"id": "noArticle-C8"
+	},
+	{
+		"author": "NewbieBlogger",
+		"text": "En tant que débutant dans le blogging, vos articles ont été incroyablement utiles. J'apprécie les conseils pratiques et les orientations que vous fournissez.",
+		"date": "2023-11-08T15:40:00Z",
+		"id": "noArticle-C9"
+	},
+	{
+		"author": "InspiredReader",
+		"text": "Votre blog a été une source d'inspiration pour moi. Votre passion pour le sujet transparaît dans votre écriture. Merci !",
+		"date": "2023-12-20T20:00:00Z",
+		"id": "noArticle-C10"
+	}
+]
