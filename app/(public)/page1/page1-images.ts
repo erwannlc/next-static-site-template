@@ -2,28 +2,16 @@
 import placeholder from "@/public/images/placeholder.png";
 
 export const page1Images = {
-  banner: {
+  image1: {
     image: placeholder,
     alt: ""
   },
-  residence: {
+  image2: {
     image: placeholder,
     alt: ""
   },
-  solo: {
+  image3: {
     image: placeholder,
     alt: ``
-  },
-  group: {
-    image: placeholder,
-    alt: ``
-  },
-  studio: {
-    image: placeholder,
-    alt: ""
-  },
-  outside: {
-    image: placeholder,
-    alt: ``
-  },
+  }
 };
