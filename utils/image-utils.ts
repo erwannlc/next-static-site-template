@@ -8,9 +8,9 @@ export const placeholderImgData: Omit<ImageDataType, "id"> = {
   metadata: {
     width: 960,
     height: 796,
-    orientation: "landscape",
     format: "png",
     size: 6.84,
+    orientation: "landscape",
     uploadedBy: "default_admin"
   }
 };
