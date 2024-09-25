@@ -3,8 +3,8 @@ import type { LocalJSONFilename, StaticImagesDataJsonFilename } from "@/types/ap
 import type { ImageDataType } from "@/types/image-types";
 import { promises as fs } from "fs";
 
-const dataJsonPath = process.env.LOCAL_DATA_PATH;
-const imagesDataJsonPath = process.env.LOCAL_DATA_PATH_IMAGESDATA;
+const dataJsonPath = "/data-access/static/json/";
+const imagesDataJsonPath = "/data-access/static/json/imagesData/";
 
 export async function getStaticImagesDataByPage_dal(
   imagesFileName: StaticImagesDataJsonFilename
