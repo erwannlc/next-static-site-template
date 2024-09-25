@@ -1,0 +1,2 @@
+This project makes use of Heroicons, Ionicons and css.gg, which are licensed under the MIT License.
+This project makes use of Material Design Icons, which are licensed under the Apache License 2.0.
