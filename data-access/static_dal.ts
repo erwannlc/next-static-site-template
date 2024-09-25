@@ -3,13 +3,13 @@ import type { LocalJSONFilename, StaticImagesDataJsonFilename } from "@/types/ap
 import type { ImageDataType } from "@/types/image-types";
 import { promises as fs } from "fs";
 
-const dataJsonPath = "/data-access/static/json/";
-const imagesDataJsonPath = "/data-access/static/json/imagesData/";
+const LOCAL_DATA_PATH_IMAGESDATA = "/db/static/json/imagesData/";
+const LOCAL_DATA_PATH = "/db/static/json/";
 
 export async function getStaticImagesDataByPage_dal(
   imagesFileName: StaticImagesDataJsonFilename
 ): Promise<ImageDataType[]> {
-  const imagesPath = imagesDataJsonPath + imagesFileName;
+  const imagesPath = LOCAL_DATA_PATH_IMAGESDATA + imagesFileName;
   const imagesJson = await fs.readFile(process.cwd() + imagesPath, "utf8");
   const staticImagesData = JSON.parse(imagesJson) as ImageDataType[];
   return staticImagesData;
@@ -35,7 +35,7 @@ export async function getStaticImagesDataMultipleSources_dal(
 export async function getMockedLocalData_dal<T>(
   jsonfileName: LocalJSONFilename
 ) {
-  const mockDataJsonPath = dataJsonPath + "mock/";
+  const mockDataJsonPath = LOCAL_DATA_PATH + "mock/";
   const path = mockDataJsonPath + jsonfileName + ".json";
   const jsonData = await fs.readFile(process.cwd() + path, "utf8");
   const localData = JSON.parse(jsonData) as T[];
